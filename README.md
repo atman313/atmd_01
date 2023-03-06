@@ -1,9 +1,4 @@
-# Using the repo
-This repo is used for the Youtube tutorial: 
-You can download this repo and move to different branches that represent different stages of the project.
+Carousel built from scratch with 100% React. Features navigation dots, responsive design, mouse clicking/dragging ability, finger swiping, and autoplay. 
 
-## Setting up the project
-If this is your first time running the project, navigate to the root folder of this project and run ```NPM install```
 
-## Running the project
-If your project is setup, navigate to the root folder of this project and run ```NPM run```
+![scratchcarousel](https://user-images.githubusercontent.com/112145512/223004513-1e6952d5-6524-4c77-ae6e-3dd459c1366a.gif)
