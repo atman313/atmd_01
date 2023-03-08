@@ -18,6 +18,7 @@ function Carousel(props) {
     const [autoAdvance, setAutoAdvance] = useState(timer !== undefined);
     let interval;
 
+    
     const prevSlideHandler = () => {
         let newPosition = sliderPosition;
         if (newPosition > 0) {

@@ -1,3 +1,6 @@
+/* ====================
+   Carousel Display Frame
+   ==================== */
 .DisplayFrame {
     touch-action: none;
     border-radius: 30px;
@@ -20,6 +23,9 @@
     display: none;
 } 
 
+/* ====================
+   Carousel Container
+   ==================== */
 .Container {
     position: relative;
     display: flex;
@@ -49,6 +55,9 @@
     background-color: none;
 }
 
+/* ====================
+   Carousel Navigation Dots
+   ==================== */
 .Navigation {
     width: 90%;
     max-width: calc(90vh * 1.78);
@@ -86,6 +95,10 @@
         height: 2vh;
     }
 }
+
+/* ====================
+   Styles For Demo Only
+   ==================== */
 
 body{
     background-color: #FAF9F9;
