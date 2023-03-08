@@ -1,4 +1,4 @@
-Carousel built from scratch with 100% React based on . 
+Carousel built from scratch with 100% React based on Judabne's carousel. 
 
 Features navigation dots, responsive design, mouse clicking/dragging ability, finger swiping, and autoplay. 
 
